@@ -6,7 +6,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1992-05-15",
-    "imageUrl": "https://example.com/images/aether-knight.jpg",
+    "imageUrl": "https://github.com/aybelss/Images/blob/main/_1ecc4b32-43a9-4d5a-80fa-077e40b78afd.jpg",
     "rarity": "Legendary",
     "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
     "element": "Aether",
@@ -14,7 +14,7 @@
       "id": "GUILD-009",
       "name": "Order of the Cosmic Veil",
       "guildMaster": "Celestial Mage",
-      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "guildEmblemUrl": "https://github.com/aybelss/Images/blob/main/_48da9d39-1fd2-4738-b634-9d35dd8bcc54.jpg",
       "foundedYear": 1423,
       "motto": "Balance in All, All in Balance"
     }
@@ -26,7 +26,7 @@
     "age": 28,
     "isActive": true,
     "birthDate": "1996-12-10",
-    "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+    "imageUrl": "https://github.com/aybelss/Images/blob/main/_66cb5a8c-f130-4de1-9190-a8afaaa5bf67.jpg",
     "rarity": "Epic",
     "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
     "element": "Shadow",
@@ -34,9 +34,50 @@
       "id": "GUILD-015",
       "name": "Brotherhood of the Dusk",
       "guildMaster": "Darkness Wielder",
-      "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+      "guildEmblemUrl": "https://github.com/aybelss/Images/blob/main/_cea87642-7d5c-4cd2-9f38-c9e05b4753c1.jpg",
       "foundedYear": 1578,
       "motto": "In Shadows, Truth"
     }
   }
 ]
+[
+  {
+    "id": "ART-001",
+    "name": "Elena Ray",
+    "description": "Elena Ray is a visionary pop artist known for her electrifying performances and innovative soundscapes that blend electronic music with traditional pop.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1990-09-18",
+    "imageUrl": "https://github.com/aybelss/Images/blob/main/_23fc49b1-7b90-4ff9-8405-057eab1460e9.jpg",
+    "genre": "Pop/Electronic",
+    "instruments": ["Vocals", "Keyboard", "Synthesizer"],
+    "recordLabel": {
+      "id": "LABEL-101",
+      "name": "Neon Groove Records",
+      "labelLogoUrl": "https://github.com/aybelss/Images/blob/main/_d3e2ee21-aa6b-45ad-bfe1-2eb7fa33f009.jpg",
+      "foundedYear": 2010,
+      "founder": "Maxwell Turner",
+      "headquarters": "Los Angeles, California"
+    }
+  },
+  {
+    "id": "ART-002",
+    "name": "The Midnight Howlers",
+    "description": "An indie rock band hailing from Austin, Texas, known for their gritty guitar riffs and raw, emotional lyrics.",
+    "age": 5,
+    "isActive": true,
+    "birthDate": "2019-05-16",
+    "imageUrl": "https://github.com/aybelss/Images/blob/main/_2cc87938-45e6-42d5-ab9a-212239851bf9.jpg",
+    "genre": "Indie Rock",
+    "instruments": ["Guitar", "Drums", "Bass"],
+    "recordLabel": {
+      "id": "LABEL-202",
+      "name": "Lone Star Records",
+      "labelLogoUrl": "https://github.com/aybelss/Images/blob/main/_bd4ce967-1183-4061-801d-f83ab3e012a4.jpg",
+      "foundedYear": 2005,
+      "founder": "Elijah Reed",
+      "headquarters": "Austin, Texas"
+    }
+  }
+]
+
