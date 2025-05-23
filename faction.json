@@ -1,0 +1,18 @@
+[
+  {
+    "id": "FACT-001",
+    "name": "The Obsidian Throne",
+    "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+    "leader": "Queen Morvanna",
+    "foundedYear": 1023,
+    "isRecognized": true
+  },
+  {
+    "id": "FACT-002",
+    "name": "Descendants of Ash",
+    "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/descendants_of_ash.png",
+    "leader": "High Seer Thalor",
+    "foundedYear": 876,
+    "isRecognized": false
+  }
+]
