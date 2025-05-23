@@ -1,0 +1,192 @@
+[
+  {
+    "id": "CHAR-001",
+    "name": "Kael",
+    "description": "A dark sorcerer from the Shadowlands.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "1064-02-26",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/kael.png",
+    "rank": "Bone Seer",
+    "skills": ["Hexing", "Mind Manipulation", "Cursed Artifacts"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-002",
+    "name": "Veyra",
+    "description": "Master of shadow blades and blood rituals.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1069-10-21",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/veyra.png",
+    "rank": "Hexcaster",
+    "skills": ["Blade Mastery", "Cursed Artifacts", "Blood Rituals"],
+    "faction": {
+      "id": "FACT-002",
+      "name": "Descendants of Ash",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/descendants_of_ash.png",
+      "leader": "High Seer Thalor",
+      "foundedYear": 876,
+      "isRecognized": false
+    }
+  },
+  {
+    "id": "CHAR-003",
+    "name": "Thorne",
+    "description": "Stealthy necromancer of the night.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1068-12-09",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/thorne.png",
+    "rank": "Shadowblade",
+    "skills": ["Necromancy", "Shadow Stealth", "Blade Mastery"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-004",
+    "name": "Lyssara",
+    "description": "Mistress of blood and bones.",
+    "age": 44,
+    "isActive": true,
+    "birthDate": "1055-01-29",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/lyssara.png",
+    "rank": "Bone Seer",
+    "skills": ["Hexing", "Blood Rituals", "Necromancy"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-005",
+    "name": "Mordrek",
+    "description": "A silent killer who strikes from the shadows.",
+    "age": 44,
+    "isActive": false,
+    "birthDate": "1055-05-17",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/mordrek.png",
+    "rank": "Necromancer",
+    "skills": ["Shadow Stealth", "Blade Mastery", "Hexing"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-006",
+    "name": "Elira",
+    "description": "Scholar of forbidden magic and sharp steel.",
+    "age": 46,
+    "isActive": true,
+    "birthDate": "1053-02-10",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/elira.png",
+    "rank": "Hexcaster",
+    "skills": ["Blade Mastery", "Dark Magic", "Cursed Artifacts"],
+    "faction": {
+      "id": "FACT-002",
+      "name": "Descendants of Ash",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/descendants_of_ash.png",
+      "leader": "High Seer Thalor",
+      "foundedYear": 876,
+      "isRecognized": false
+    }
+  },
+  {
+    "id": "CHAR-007",
+    "name": "Nyra",
+    "description": "Deceiver of minds and shadows.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1066-01-04",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/nyra.png",
+    "rank": "Necromancer",
+    "skills": ["Blood Rituals", "Mind Manipulation", "Shadow Stealth"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-008",
+    "name": "Selene",
+    "description": "Bearer of ancient secrets and curses.",
+    "age": 51,
+    "isActive": true,
+    "birthDate": "1048-03-06",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/selene.png",
+    "rank": "Beastmaster",
+    "skills": ["Forbidden Lore", "Dark Magic", "Hexing"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-009",
+    "name": "Garran",
+    "description": "He controls death and unleashes blood rites.",
+    "age": 50,
+    "isActive": true,
+    "birthDate": "1049-10-06",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/garran.png",
+    "rank": "Shadowblade",
+    "skills": ["Dark Magic", "Necromancy", "Blood Rituals"],
+    "faction": {
+      "id": "FACT-001",
+      "name": "The Obsidian Throne",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/obsidian_throne.png",
+      "leader": "Queen Morvanna",
+      "foundedYear": 1023,
+      "isRecognized": true
+    }
+  },
+  {
+    "id": "CHAR-010",
+    "name": "Varek",
+    "description": "Wielder of cursed blades and dark incantations.",
+    "age": 38,
+    "isActive": false,
+    "birthDate": "1061-02-06",
+    "imageUrl": "https://raw.githubusercontent.com/aybelss/Images/main/dark_fantasy_characters_images/varek.png",
+    "rank": "Necromancer",
+    "skills": ["Dark Magic", "Hexing", "Blade Mastery"],
+    "faction": {
+      "id": "FACT-002",
+      "name": "Descendants of Ash",
+      "emblemUrl": "https://raw.githubusercontent.com/aybelss/Images/main/faction_emblems/descendants_of_ash.png",
+      "leader": "High Seer Thalor",
+      "foundedYear": 876,
+      "isRecognized": false
+    }
+  }
+]
